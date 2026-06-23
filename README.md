@@ -1,7 +1,7 @@
 # Smart Crop Rotatory Advisor
 
 ## Overview
-Smart Crop Rotatory Advisor is a statistical analysis project focused on understanding how soil properties and environmental factors affect crop yield. The project analyzes agricultural datasets to identify patterns and relationships that can help optimize crop rotation strategies and improve farming productivity.
+Smart Crop Rotatory Advisor is a statistical analysis project focused on understanding how soil properties and environmental factors affect crop yield. The project analyzes agricultural datasets to identify patterns and relationships that can help optimize crop rotation strategies and improve farming productivity..
 
 ## Objectives
 - Analyze soil and crop datasets.
